@@ -1,0 +1,17 @@
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\bin\Debug\net6.0-windows\ShoppingCart.exe
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\bin\Debug\net6.0-windows\ShoppingCart.deps.json
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\bin\Debug\net6.0-windows\ShoppingCart.runtimeconfig.json
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\bin\Debug\net6.0-windows\ShoppingCart.dll
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\bin\Debug\net6.0-windows\ShoppingCart.pdb
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\obj\Debug\net6.0-windows\ShoppingCart.csproj.AssemblyReference.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\obj\Debug\net6.0-windows\ShoppingCart.frmShoppingCart.resources
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\obj\Debug\net6.0-windows\ShoppingCart.csproj.GenerateResource.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\obj\Debug\net6.0-windows\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\obj\Debug\net6.0-windows\ShoppingCart.AssemblyInfoInputs.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\obj\Debug\net6.0-windows\ShoppingCart.AssemblyInfo.cs
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\obj\Debug\net6.0-windows\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\obj\Debug\net6.0-windows\ShoppingCart.dll
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\obj\Debug\net6.0-windows\refint\ShoppingCart.dll
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\obj\Debug\net6.0-windows\ShoppingCart.pdb
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\obj\Debug\net6.0-windows\ShoppingCart.genruntimeconfig.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 9 PD\ShoppingCart\ShoppingCart\obj\Debug\net6.0-windows\ref\ShoppingCart.dll
